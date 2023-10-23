@@ -718,7 +718,7 @@ hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
 
 [[files]]
 file = "config/colorize.json"
-hash = 
+hash = ""
 
 [[files]]
 file = "config/colormatic.properties"

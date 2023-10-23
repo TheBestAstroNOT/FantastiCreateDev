@@ -1,13 +1,7 @@
 name = "Colorize"
-filename = "colorize-1.19.2-fabric-1.4.0.jar"
-side = "both"
+filename = "view"
 
 [download]
-hash-format = "sha1"
-hash = "a7f11e485e89448f678e51add929f212c1f1f785"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4153600
-project-id = 658780
+url = "https://drive.google.com/file/d/1CcFIEL1-ptzPb1zynpZPCykU6o87-Lmt/view?usp=share_link"
+hash-format = "sha256"
+hash = "96be814352296e4a07b50880bb70bf176e07b83560b18473f0bc2ead48f6ea9e"

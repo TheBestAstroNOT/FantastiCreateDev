@@ -3165,6 +3165,10 @@ file = "config/yungsextras-fabric-1_19.toml"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "fancymenu_data/last_world.fmdata"
+hash = "c24e8d813b585fdfd65045a8b9b6a00da7ea06cc46899b3c2cb0fc42b8a6a413"
+
+[[files]]
 file = "fantasticreate-v5.0-title.png"
 hash = "3fd1c7306dec11dc60ff4661178da8ff83aff9639cea24a2a53b61e8f8c0585b"
 
@@ -3805,7 +3809,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorize.pw.toml"
-hash = "56b1a4163c5c7bce6c9c42a842d91c331409be202f5b7588ff7449744595eb8f"
+hash = "9892ae177aad2815db6fd4ffae095fb803485609e5eca9a1e82e83e5cd2ec0d0"
 metafile = true
 
 [[files]]
@@ -5768,7 +5772,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "d4acddd9dbe8063560fa281eb07898471841df72832e6068015cb742928f2e90"
+hash = "776e16efbbf9f22c90690bb59000aedf437b230f7807a51cd3abcdf096258edd"
 metafile = true
 
 [[files]]

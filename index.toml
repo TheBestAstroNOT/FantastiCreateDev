@@ -718,7 +718,7 @@ hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
 
 [[files]]
 file = "config/colorize.json"
-hash = ""
+hash = "4650bf86dba1f7bc6406ab490e3c0c0ac40ae5e9cb5ae46dafa7abcf658c48a7"
 
 [[files]]
 file = "config/colormatic.properties"
@@ -3809,7 +3809,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorize.pw.toml"
-hash = "4cf0b5305dee2f3bb5f20a75bd0ba398d454259da87ab49b2ec22bbbc0c391b8"
+hash = "d51751af8aadd0ccaf59203279ee9702531bbaddda9a940ff8b0cc0826f974f0"
 metafile = true
 
 [[files]]
@@ -4728,7 +4728,7 @@ metafile = true
 
 [[files]]
 file = "mods/ittakesapillage.pw.toml"
-hash = "6ec3a95cde3ea0a79a5c9f346d4c815f811709f3fc1e34b3c471cdcf00fcfc40"
+hash = "028ce48766e7e0175bfbf84c766e9ffb656af32d97f71582fa527364b1a86c95"
 metafile = true
 
 [[files]]
@@ -5772,7 +5772,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "ee5a3d829f3588a2799c89e531fb2a37371bd8cffce1f07e6a9cc9bf38c091b3"
+hash = "8943c49165a9bac0411e03c255cac13ee708bb4a93b87d5cd0276f043d04fe17"
 metafile = true
 
 [[files]]

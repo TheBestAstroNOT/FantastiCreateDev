@@ -1,7 +1,7 @@
 name = "Colorize"
-filename = "view"
+filename = "colorize-1.19.2-fabric-1.4.0.jar"
 
 [download]
-url = "https://drive.google.com/file/d/1CcFIEL1-ptzPb1zynpZPCykU6o87-Lmt/view?usp=share_link"
+url = "https://thebestastronot.github.io/FantastiCreateDev/colorize-1.19.2-fabric-1.4.0.jar"
 hash-format = "sha256"
-hash = "4d889b75e59179e6fe3541dad6a60887a23fc8e1060033bf3901792a5e66f56e"
+hash = "750085608dfada40e225a2b72891b1aeeb32b1c2637cb35168a0d03e2dcfc02f"

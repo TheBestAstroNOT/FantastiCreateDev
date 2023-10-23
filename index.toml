@@ -3809,7 +3809,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorize.pw.toml"
-hash = "d51751af8aadd0ccaf59203279ee9702531bbaddda9a940ff8b0cc0826f974f0"
+hash = "850e21940a550ac90de4ec9e06b122ab0f012619186d93567b4f35967239618c"
 metafile = true
 
 [[files]]
@@ -4728,7 +4728,7 @@ metafile = true
 
 [[files]]
 file = "mods/ittakesapillage.pw.toml"
-hash = "028ce48766e7e0175bfbf84c766e9ffb656af32d97f71582fa527364b1a86c95"
+hash = "336c23c6212aed72015a31a9751540d9d0525231c450422a0a6ced6681c5c435"
 metafile = true
 
 [[files]]
@@ -5772,7 +5772,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "8943c49165a9bac0411e03c255cac13ee708bb4a93b87d5cd0276f043d04fe17"
+hash = "9404c3af0ba4673939952388a24d85a071e8e187c7ef5016512223338ae1425c"
 metafile = true
 
 [[files]]

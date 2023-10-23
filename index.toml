@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Structory_1.19.3_v1.3.1a.jar"
+hash = "49de3de56ef6e71ad778cf457cc7145c4380099803a924d426bef7d28f1e8d3c"
+
+[[files]]
+file = "colorize-1.19.2-fabric-1.4.0.jar"
+hash = "750085608dfada40e225a2b72891b1aeeb32b1c2637cb35168a0d03e2dcfc02f"
+
+[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
@@ -20656,3 +20664,7 @@ hash = "e6566fb5e40a011336a156f8a7fd77c3e1e2827fe7220e04ca3b1f3a0a55755e"
 [[files]]
 file = "shaderpacks/rethinking-voxels_r0.1_alpha4 (default).zip"
 hash = "1cf4c40e6cd058a8b9fda70c706d99e549646466a7a7bf189911388666014e34"
+
+[[files]]
+file = "takesapillage-1.0.3-1.19.2.jar"
+hash = "037201d1f353f679beb9c6c3bf2e5900dc6f596de52614ac3e3efe41898445a0"

@@ -3169,6 +3169,14 @@ file = "fantasticreate-v5.0-title.png"
 hash = "3fd1c7306dec11dc60ff4661178da8ff83aff9639cea24a2a53b61e8f8c0585b"
 
 [[files]]
+file = "gitattributes.txt"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore.txt"
+hash = "cdc2348a609da0c28ec3e2f3874e4be774c4c41ce82eebe04167b6e0855946a2"
+
+[[files]]
 file = "icon.png"
 hash = "e8807239ef96a3845a24218b27f1bd47e9c18821ac1114e0936c91fb8a8e2e32"
 
@@ -4695,11 +4703,6 @@ hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
 metafile = true
 
 [[files]]
-file = "mods/it-takes-a-pillage-fabric.pw.toml"
-hash = "08469edc3728f89e436047f4016adb687ab14e2ad6b4f2752ad58b0a9b21ba62"
-metafile = true
-
-[[files]]
 file = "mods/item-borders-fabric.pw.toml"
 hash = "96fb4b4ccdd431249be8dc30d656d358b972347bc93734f5f7435c47839ca86e"
 metafile = true
@@ -4717,6 +4720,11 @@ metafile = true
 [[files]]
 file = "mods/itemlocks.pw.toml"
 hash = "f014aa22e982f8d6464a8924319e5f04972cbed7a94669c417308afc1366c782"
+metafile = true
+
+[[files]]
+file = "mods/ittakesapillage.pw.toml"
+hash = "a0e3ca3170bd77c722519e27de173c6a2808a2fef59bc6c0ed509f0311da40ba"
 metafile = true
 
 [[files]]

@@ -1,0 +1,7 @@
+name = "IttakesaPillage"
+filename = "view"
+
+[download]
+url = "https://drive.google.com/file/d/12xpV19ZOZA1028Hri2aGfs4PvMioUPZE/view?usp=sharing"
+hash-format = "sha256"
+hash = "f93fd3651fadcf291b4eca630a46fd129d3d4b57d2db2c77c53a420a3de2a676"
